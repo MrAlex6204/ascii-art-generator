@@ -1,0 +1,10 @@
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\bin\Debug\ASCII_ArtGenerator.exe.config
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\bin\Debug\ASCII_ArtGenerator.exe
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\bin\Debug\ASCII_ArtGenerator.pdb
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\obj\Debug\ASCII_ArtGenerator.csproj.AssemblyReference.cache
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\obj\Debug\ASCII_ArtGenerator.csproj.CoreCompileInputs.cache
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\obj\Debug\ASCII_ArtGenerator.exe
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\obj\Debug\ASCII_ArtGenerator.pdb
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\bin\Debug\miltch.jpg
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\bin\Debug\github.gif
+C:\Users\veraheoa\Documents\Practices\ASCII_ArtGenerator\bin\Debug\git.png
